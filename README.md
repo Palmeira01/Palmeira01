@@ -43,13 +43,13 @@ I'm Paulo Meira, a Portuguese Software Engineer graduated from the University of
 
 <img
     align="left"
-    height="200"
-    style="padding-right: 10px"
+    height="180"
+    style="padding-right: 5px"
     src="https://github-readme-stats.vercel.app/api?username=Palmeira01&rank_icon=github&include_all_commits=true&theme=radical"
 />
 <img
     align="left"
-    height="200"
-    style="padding-right: 10px"
+    height="180"
+    style="padding-right: 5px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmeira01&layout=compact&theme=radical"
 />
