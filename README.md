@@ -10,13 +10,17 @@ I'm Paulo Meira, a Portuguese Software Engineer graduated from the University of
   <a href="https://www.linkedin.com/in/paulomeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 
+### 📕 About me:
+- 🔬 Currently working as a research fellow, exploring AI and data extraction
+- 🧠 I’m into competitive programming and solving logic puzzles
+- 💪 I’m passionate about personal development and fitness
+
+##
 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -32,11 +36,20 @@ I'm Paulo Meira, a Portuguese Software Engineer graduated from the University of
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <br />
+<br />
 
-##
 
-### 📕 About me:
-- 🔬 Currently working as a research fellow, exploring AI and data extraction
-- 🧠 I’m into competitive programming and solving logic puzzles
-- 💪 I’m passionate about personal development and fitness
+### 📊 GitHub Stats:
 
+<img
+    align="left"
+    height="200"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api?username=Palmeira01&rank_icon=github&include_all_commits=true&theme=radical"
+/>
+<img
+    align="left"
+    height="200"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmeira01&layout=compact&theme=radical"
+/>
